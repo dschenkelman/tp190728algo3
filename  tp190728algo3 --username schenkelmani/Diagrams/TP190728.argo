@@ -1,0 +1,55 @@
+<argo version="6">
+  <documentation>
+    <authorname></authorname>
+    <authoremail></authoremail>
+    <version>0.30</version>
+    <description>
+      
+    </description>
+  </documentation>
+  <settings>
+    <notationlanguage>UML 1.4</notationlanguage>
+    <showboldnames>false</showboldnames>
+    <useguillemots>false</useguillemots>
+    <showassociationnames>true</showassociationnames>
+    <showvisibility>true</showvisibility>
+    <showmultiplicity>false</showmultiplicity>
+    <showinitialvalue>false</showinitialvalue>
+    <showproperties>false</showproperties>
+    <showtypes>true</showtypes>
+    <showstereotypes>false</showstereotypes>
+    <showsingularmultiplicities>true</showsingularmultiplicities>
+    <defaultshadowwidth>1</defaultshadowwidth>
+    <hidebidirectionalarrows>true</hidebidirectionalarrows>    
+    <fontname>Dialog</fontname>
+    <fontsize>12</fontsize>
+    <defaultstereotypeview>0</defaultstereotypeview>
+    <activediagram>Diagrama de clase</activediagram>
+  </settings>
+  <searchpath href="PROJECT_DIR" />
+  <members>
+    <member type="profile"
+            name="TP190728_profile.profile" />
+    <member type="xmi"
+            name="TP190728.xmi" />
+    <member type="pgml"
+            name="TP190728_Diagramadeclase.pgml"
+            diagramclass="org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram"
+            diagramname="Diagrama de clase" />
+    <member type="pgml"
+            name="TP190728_Diagramadecasodeuso.pgml"
+            diagramclass="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram"
+            diagramname="Diagrama de caso de uso" />
+    <member type="pgml"
+            name="TP190728_Diagramadecolaboración.pgml"
+            diagramclass="org.argouml.uml.diagram.collaboration.ui.UMLCollaborationDiagram"
+            diagramname="Diagrama de colaboración" />
+    <member type="pgml"
+            name="TP190728_Diagramadeclase3.pgml"
+            diagramclass="org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram"
+            diagramname="Diagrama de paquetes" />
+    <member type="todo"
+            name="TP190728.todo" />
+  </members>
+  <historyfile name="" />
+</argo>
